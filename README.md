@@ -1,79 +1,85 @@
-# Hi, I'm Isaac Hernandez 👋
+<div align="center">
 
-**Senior Technical Lead QA | SDET Architect**  
-AI-driven testing · Framework design · Cross-platform automation · Author of *Zero to SDET*
+# 👋 Hi, I'm Isaac Hernandez
 
-I design and lead intelligent automation frameworks, mentor teams from Manual QA to SDET, and build tools that make quality engineering scalable and sustainable. Currently focused on AI-assisted testing (Playwright + MCP + prompt engineering) and modern quality practices.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=SDET+Architect+%7C+AI-Driven+Testing;Playwright+%2B+MCP+%2B+Prompt+Engineering;Author+of+Zero+to+SDET;Building+tools+that+make+QA+smarter" alt="Typing SVG" />
 
----
+**Senior Technical Lead QA** · AI-powered quality engineering · Framework architect · Author
 
-### 🚀 Currently Working On
-- AI-driven testing frameworks with **Playwright + MCP** (Model Context Protocol) and GitHub Copilot
-- QA Academy ABC — live practice platform + frameworks for *Zero to SDET*
-- **media-downloader-core** — high-performance download engine (npm) + upcoming Android app
+[![Email](https://img.shields.io/badge/Email-isaac.hernandez.qz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.hernandez.qz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamisaac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamisaac)
+[![Website](https://img.shields.io/badge/QA_Academy-qaacademyabc.xyz-2EAD33?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qaacademyabc.xyz)
 
----
-
-### 🛠️ Tech Stack
-
-**AI & Intelligent Testing**  
-Claude · ChatGPT · Gemini · GitHub Copilot · MCP · Prompt Engineering · TensorFlow · Scikit-learn · Pandas
-
-**Automation Frameworks**  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE3768?style=flat-square)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**Languages & Platforms**  
-Python (8+ yr) · TypeScript/JavaScript (9+ yr) · Java/Groovy (11+ yr) · GoLang · C# · Shell  
-Web · Mobile (iOS/Android) · Roku · Android TV · tvOS · AWS · GCP
-
-**Quality Engineering**  
-GitHub Actions · Allure · JMeter · Docker · Page Object Model · BDD · CI/CD · Performance Testing
+</div>
 
 ---
 
-### 📚 Publications & Platforms
+### 🤖 AI Tools I Work With Daily
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Zero to SDET** | Book published in English and Spanish. Covers programming, test automation, PostgreSQL, CI/CD and AI-assisted testing. | [Amazon](https://www.amazon.com/dp/B0HFW2K4GC) |
-| **QA Academy ABC** | Live full-stack practice platform (Next.js + Supabase) + public automation frameworks. Companion to the book. | [Platform](https://qaacademyabc.xyz) · [GitHub](https://github.com/isaachq/qa-academy-exercises) |
-| **media-downloader-core** | High-performance TypeScript download engine (yt-dlp + ffmpeg). Published on npm. Android app coming soon. | [npm](https://www.npmjs.com/package/media-downloader-core) · [GitHub](https://github.com/isaachq/media-downloader-core) · [Website](https://isaachq.github.io/media-downloader-core) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-Google-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-xAI-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-AI_Pair-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
 
----
-
-### 🌟 Featured Repositories
-
-- **[qa-academy-exercises](https://github.com/isaachq/qa-academy-exercises)**  
-  Finished frameworks and exercises from *Zero to SDET* (English + Spanish editions). Includes Playwright, Allure reporting, GitHub Actions CI, and real scenarios against the live QA Academy platform.
-
-- **[media-downloader-core](https://github.com/isaachq/media-downloader-core)**  
-  Educational yet production-grade download engine. Worker pools, format profiles, integrity validation, zero runtime dependencies. Available on npm and soon as an Android app.
+**Focus:** MCP (Model Context Protocol) · Prompt Engineering · AI-assisted test generation · Intelligent test orchestration · Defect analysis with LLMs
 
 ---
 
-### 💼 Experience Highlights
-- Designed AI-driven Playwright frameworks with MCP and Task Router for intelligent test orchestration
-- Led LATAM QA Community of Practice and authored internal QA engineering materials
-- Mentored Manual QA engineers into SDET roles
-- Built cross-platform automation (web, mobile, Roku, Android TV, tvOS)
-- Conducted 40+ technical interviews and overhauled QA hiring processes
-- Strong background in full-stack development and cloud (AWS/GCP)
+### 🛠️ Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-EE3768?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-FF6A00?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=flat-square" />
+</p>
+
+**Also:** Selenium · WebDriver.io · Pytest · JMeter · Docker · AWS · GCP · Mobile (iOS/Android) · Roku · Android TV · tvOS
 
 ---
 
-### 📫 Connect
-- LinkedIn: [linkedin.com/in/iamisaac](https://linkedin.com/in/iamisaac)
-- Platform: [qaacademyabc.xyz](https://qaacademyabc.xyz)
-- Email: isaac.hernandez.qz@gmail.com
-- Location: Aguascalientes, Mexico (Remote)
+### 🚀 Featured Work
+
+| Project | What it is | Tech | Link |
+|---------|------------|------|------|
+| **Zero to SDET** | Book (EN + ES) on modern SDET path, automation, CI/CD and AI-assisted testing | Book | [Amazon](https://www.amazon.com/dp/B0HFW2K4GC) |
+| **QA Academy ABC** | Live practice platform + public frameworks (companion to the book) | Next.js · Supabase · Playwright · Allure · GitHub Actions | [Platform](https://qaacademyabc.xyz) · [Repo](https://github.com/isaachq/qa-academy-exercises) |
+| **media-downloader-core** | High-performance download engine (npm). Android app coming soon | TypeScript · yt-dlp · ffmpeg · Worker pools | [npm](https://www.npmjs.com/package/media-downloader-core) · [Repo](https://github.com/isaachq/media-downloader-core) |
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachq&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaachq&layout=compact&theme=default&hide_border=true)
+### 💡 What I Do
+- Design **AI-driven testing frameworks** (Playwright + MCP + prompt engineering)
+- Build and lead automation strategies across web, mobile and TV platforms
+- Mentor Manual QA engineers into SDETs and scale quality practices
+- Author technical content and frameworks used by others (book + public repos)
+- Combine strong engineering background with modern AI tooling (Claude, Gemini, ChatGPT, Grok, Cursor)
+
+---
+
+### 📫 Open to Opportunities
+**Senior SDET / SDET Architect / AI-in-Testing roles** (Remote or Mexico)
+
+📧 **Contact:** [isaac.hernandez.qz@gmail.com](mailto:isaac.hernandez.qz@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/iamisaac](https://linkedin.com/in/iamisaac)  
+🌐 Platform: [qaacademyabc.xyz](https://qaacademyabc.xyz)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaachq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaachq&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=isaachq&style=flat-square&color=blue)
+
+</div>
